@@ -100,7 +100,7 @@
         {
       "beta": false,
       "name": "Apollo for Reddit",
-      "bundleIdentifier": "com.christianselig.Apollo",
+      "bundleIdentifier": "com.christianselig.ApolloGlass",
       "developerName": "Christian Selig (& JeffreyCA)",
       "subtitle": "The award-winning Reddit app",
       "version": "1.15.11_1.4.1g",
