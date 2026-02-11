@@ -36,7 +36,7 @@
       "versions": [
         {
           "version": "1.15.11",
-          "date": "2026-02-07T06:48:10Z",
+          "date": "2026-02-08T06:48:10Z",
           "localizedDescription": "Apollo version: \"v1.15.11\"\nImprovedCustomApi version: \"v1.4.2\"\n\nRelease Notes\n\u2022 Fix crashes in Custom API settings on iOS 14 (issue: 10, PR: 88)\r\nKnown Issues\n\u2022 Apollo Ultra features may cause app to crash\n\u2022 Imgur multi\u2022image upload\n\u2022 Uploads usually fail on the first attempt but subsequent retries should succeed\n\u2022 Share URLs in private messages and long\u2022tapping them still open in the in\u2022app browser\n",
           "downloadURL": "https://github.com/Balackburn/Apollo/releases/download/v1.15.11_1.4.2/GLASS_Apollo-1.15.11_ImprovedCustomApi-1.4.2.ipa",
           "size": 114786467
